@@ -55,6 +55,8 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 <p align="center">
   Geliştirici: <b>lattesiber</b>
 </p>
+
+
 # bilgi
 
 yav kurulum dosyası benim yaptığım dosyalara kuriyim mı diyordu buraya kurun:(os yeri):\users\(kullanıcınız)\AppData\Roaming 
